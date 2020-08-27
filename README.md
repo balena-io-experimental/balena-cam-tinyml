@@ -18,7 +18,7 @@ This project is based on the great [BalenaCam project](https://github.com/balena
 
 ## Creating your Edge Impulse project
 
-In this tutorial we'll build a model that can distinguish between different type of shoes: flip flops, sneakers or running shoes. 
+In this tutorial we'll build a model that can distinguish between different type of boards: Raspberry Pi 3, Raspberry Pi 4 and balena Fin.
 
 ### Data collection
 
